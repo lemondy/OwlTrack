@@ -1,0 +1,12 @@
+{
+  "coins": [
+    "BTC",
+    "ETH",
+    "SOL",
+    "HYPE"
+  ],
+  "refresh_interval": 3,
+  "source": "hyperliquid",
+  "api_url": "https://api.hyperliquid.xyz/info"
+}
+
